@@ -15,7 +15,7 @@ const config = {
 const game = new Phaser.Game(config);
 
 let ball;
-let ballSize = 80;
+let ballSize = 85;
 let yspeed = 0.5;
 let xspeed = 1.0;
 
